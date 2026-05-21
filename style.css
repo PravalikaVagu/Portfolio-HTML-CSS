@@ -358,6 +358,23 @@ section{
     line-height: 1.7;
 }
 
+.certificate-link{
+
+    text-decoration: none;
+
+    color: white;
+
+    display: block;
+
+    transition: 0.3s;
+
+}
+
+.certificate-link:hover{
+
+    transform: translateY(-8px);
+
+}
 
 /* PROJECTS */
 
